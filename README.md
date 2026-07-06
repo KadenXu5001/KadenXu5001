@@ -27,7 +27,7 @@ tools = [
 llm = Kaden(temperature=67)
 
 agent_kwargs = {
-    "prefix": "You are an AI agent with the following traits:\n"
+    "prefix": "You are a Software Engineer with the following traits:\n"
               "- Optimistic\n"
               "- Comfy\n",
               "- Always Learning\n",

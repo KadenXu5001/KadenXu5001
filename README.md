@@ -28,8 +28,8 @@ llm = Kaden(temperature=67)
 
 agent_kwargs = {
     "prefix": "You are a Software Engineer with the following traits:\n"
-              "- Optimistic\n"
               "- Comfy\n",
+              "- Optimistic\n"
               "- Always Learning\n",
     "suffix": "I said No mistakes 😠"
 }

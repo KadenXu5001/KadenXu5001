@@ -53,7 +53,7 @@ result = agent.run("Pleasure to meet you!")
 ### Geolocation Multi-Agent System
 **Tech:** LangGraph, Python, MongoDB, Google Cloud | [Video Demo](https://youtu.be/3qH8bZSjPjY) | [Github](https://github.com/KadenXu5001/GeoguesserMAS)
 
-Play at geo-trainer.com!
+Play at   [geo-trainer.com](geo-trainer.com)!
 
 Built a LangGraph-based multi-agent system that analyzes geographic clues and coordinates specialized agents to predict locations from street-view imagery. Integrated a structured knowledge base spanning **17 countries**, MongoDB for persistent data, and Google Cloud for deployment.
 
